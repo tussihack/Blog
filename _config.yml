@@ -10,7 +10,7 @@ title:            "tussi law blog"
 tagline:          'law in a nutshell'
 description:      'understanding law for everybody'
 url:              https://tussihack.github.io/blog/
-baseurl:          /
+baseurl:          https://tussihack.github.io/blog/
 
 author:
   name:          'tussihack'
