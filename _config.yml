@@ -9,7 +9,7 @@ permalink:        pretty
 title:            "tussi law blog" 
 tagline:          'law in a nutshell'
 description:      'understanding law for everybody'
-url:              https://tussihack.github.io/blog
+url:              https://tussihack.github.io/blog/
 baseurl:          /
 
 author:
