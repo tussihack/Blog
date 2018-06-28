@@ -10,7 +10,7 @@ title:            "tussi law blog"
 tagline:          'law in a nutshell'
 description:      'understanding law for everybody'
 url:              https://tussihack.github.io/blog/
-baseurl:          https://tussihack.github.io/blog/
+baseurl:          /
 
 author:
   name:          'tussihack'
@@ -24,4 +24,3 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-theme: jekyll-theme-cayman

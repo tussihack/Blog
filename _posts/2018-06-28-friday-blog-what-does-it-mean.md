@@ -1,6 +1,6 @@
 ---
 title: "tussis friday column" 
-topic: media
+category: media
 ---
 ## tussi friday column: What does it mean to be a defense attorney? What about morality? 
 
